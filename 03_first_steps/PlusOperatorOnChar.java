@@ -12,6 +12,7 @@ public class PlusOperatorOnChar {
         // System.out.println(b % a);
 
         char a = 'A' /* 65 */, b = 'B' /* 66 */;
-        char k = a + b;
+
+        var k = a + b;
     }
 }
